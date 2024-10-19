@@ -1,0 +1,9 @@
+@media only screen and(width:360px){
+	html{fontsize:14.4px;}
+}
+@media only screen and(width:375px){
+	html{fontsize:15px;}
+}
+@media only screen and(width:414px){
+	html{fontsize:16.56px;}
+}
